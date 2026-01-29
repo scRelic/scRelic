@@ -4,7 +4,6 @@
 💬 Telegram: https://t.me/sc_relic  
 💼 LinkedIn: https://linkedin.com/in/dmytro-bohutskyi  
 📧 Email: dmitriubogutskiu@gmail.com
-📄 CV: [(link to PDF)](https://drive.google.com/file/d/1RugwFxgvuTVP6O06thquqRamkuX_ousb/view?usp=sharing)
 📄 CV: [PDF](https://drive.google.com/file/d/1RugwFxgvuTVP6O06thquqRamkuX_ousb/view?usp=sharing)
 
 
