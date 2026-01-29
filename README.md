@@ -1,16 +1,39 @@
-## Hi there 👋
+# Dmytro Bohutskyi — Junior Frontend Developer
 
-<!--
-**scRelic/scRelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Ukraine  
+💬 Telegram: https://t.me/sc_relic  
+💼 LinkedIn: https://linkedin.com/in/dmytro-bohutskyi  
+📄 CV: (link to PDF)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+Junior Frontend Developer focused on Vue 3, Nuxt, and TypeScript.
+Building full-featured pet projects with authentication, REST API, and CRUD.
+Open to opportunities and professional growth.
+
+---
+
+## Tech Stack
+**Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, Vue 3, Nuxt, Pinia, Tailwind  
+**Backend basics:** Node.js, Express (REST API, JWT)  
+**Tools:** Git, GitHub, Figma, Axios
+
+---
+
+## Projects
+### IT Testing Platform
+- Auth & roles
+- REST API, CRUD
+- User profile with progress
+- PostgreSQL integration
+- Responsive UI
+
+🔗 GitHub: link  
+🌐 Demo: link
+
+---
+
+## Contacts
+- Telegram: https://t.me/sc_relic
+- Email: dmitriubogutskiu@gmail.com
