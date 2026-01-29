@@ -23,11 +23,13 @@ Open to opportunities and professional growth.
 
 ## Projects
 ### IT Testing Platform
-- Auth & roles
-- REST API, CRUD
-- User profile with progress
-- PostgreSQL integration
-- Responsive UI
+Stack: Nuxt, Vue 3, TypeScript, Pinia, Tailwind CSS, PostgreSQL, Node.js, Express
+● Implemented authentication, role-based access, and REST API for users and tests
+● Developed CRUD functionality for tests and questions
+● Created user profile with progress tracking and levels
+● Integrated PostgreSQL database and server-side API
+● Built responsive UI with Tailwind CSS and form validation using Zod/Yup
+● Configured production environment
 
 🔗 GitHub: link  
 🌐 Demo: link
