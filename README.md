@@ -9,7 +9,7 @@
 
 ## About me
 Junior Frontend Developer focused on Vue 3, Nuxt, and TypeScript.
-Building full-featured pet projects with authentication, REST API, and CRUD.
+Building full-featured projects with authentication, REST API, and CRUD.
 Open to opportunities and professional growth.
 
 ---
