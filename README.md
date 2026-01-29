@@ -3,7 +3,7 @@
 📍 Ukraine  
 💬 Telegram: https://t.me/sc_relic  
 💼 LinkedIn: https://linkedin.com/in/dmytro-bohutskyi  
-📄 CV: (link to PDF)
+📄 CV: [(link to PDF)](https://drive.google.com/file/d/1RugwFxgvuTVP6O06thquqRamkuX_ousb/view?usp=sharing)
 
 ---
 
