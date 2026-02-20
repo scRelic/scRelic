@@ -25,13 +25,19 @@ Open to opportunities and professional growth.
 
 ## Projects
 ### IT Testing Platform
+#### A full-stack web application for creating and passing online tests with role-based access control and progress tracking.
 Stack: Nuxt, Vue 3, TypeScript, Pinia, Tailwind CSS, PostgreSQL, Node.js, Express
 - Implemented authentication, role-based access, and REST API for users and tests
-- Developed CRUD functionality for tests and questions
-- Created user profile with progress tracking and levels
-- Integrated PostgreSQL database and server-side API
-- Built responsive UI with Tailwind CSS and form validation using Zod/Yup
-- Configured production environment
+- Developed a REST API for managing users and tests
+- Built full CRUD functionality for tests and questions
+- Created a user profile system with progress tracking and level mechanics
+- Implemented a test-taking system with a server-side timer
+- Developed an admin panel for managing users, tests, and content
+- Integrated PostgreSQL database with a server-side API
+- Built a responsive UI using Tailwind CSS
+- Added form validation using Zod/Yup
+- Configured and optimized the development environment
+- Deployed the application to a VPS using Docker
 
-🔗 GitHub: link  
-🌐 Demo: link
+🔗 GitHub: https://github.com/scRelic/IT-Tests  
+🌐 Demo: https://it-tests.buzz/
