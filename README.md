@@ -33,6 +33,7 @@ Stack: Nuxt, Vue 3, TypeScript, Pinia, Tailwind CSS, PostgreSQL, Node.js, Expres
 - Created a user profile system with progress tracking and level mechanics
 - Implemented a test-taking system with a server-side timer
 - Developed an admin panel for managing users, tests, and content
+- Integrated Telegram Web App for seamless authorization and application usage inside Telegram
 - Integrated PostgreSQL database with a server-side API
 - Built a responsive UI using Tailwind CSS
 - Added form validation using Zod/Yup
