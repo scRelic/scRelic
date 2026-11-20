@@ -3,7 +3,7 @@
 📍 Ukraine  
 💬 Telegram: https://t.me/sc_relic  
 💼 LinkedIn: https://linkedin.com/in/dmytro-bohutskyi  
-📧 Email: dmitriubogutskiu@gmail.com  
+📧 Email: dmitriubogutskiu2@gmail.com  
 📄 CV: [PDF](https://drive.google.com/file/d/1WuT0E5PJDAfXq2Z5QlWTDIBgFhI4GIMv/view?usp=sharing)
 
 
