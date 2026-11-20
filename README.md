@@ -24,7 +24,6 @@ Open to opportunities and professional growth.
 ---
 
 ## Projects
-## Projects
 
 ### ♠ Emerald Club
 
