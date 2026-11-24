@@ -131,6 +131,7 @@ demonstration project using virtual chips.
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scRelic&theme=tokyo-night&hide_border=true)
+[![Live Demo]([https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel)](https://eurocars-gray.vercel.app](https://emerald-club.vercel.app/))
 
 ---
 
