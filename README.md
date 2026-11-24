@@ -116,24 +116,6 @@ demonstration project using virtual chips.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=scRelic&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scRelic&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=scRelic&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scRelic&theme=tokyo-night&hide_border=true)
-[![Live Demo]([https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel)](https://eurocars-gray.vercel.app](https://emerald-club.vercel.app/))
-
----
 
 <div align="center">
 
